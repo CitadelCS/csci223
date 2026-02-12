@@ -12,11 +12,11 @@ Type your name -->
 
 Instructions: Implement the missing methods. To test them, you can add a main function that
 creates a LinkedList, adds some items, and calls the methods to see if they return the
-expected results. You can also use the __str__ method to print the list and visually verify its contents.
+expected results. You can also use the toString() method to print the list and visually verify its contents.
 
 Hints: Study the given methods and draw diagrams for the ones you must write. Consider
 corner cases as well, such as when the list is empty or has only one item. You may find it helpful to use
-helper methods, such as _getNode, to avoid repeating code.
+helper methods, such as getNode, to avoid repeating code.
 
 If you prefer Python, a Python version of this starter code is available.
  */
