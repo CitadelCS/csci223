@@ -15,7 +15,7 @@ expected results. You can also use the __str__ method to print the list and visu
 
 Hints: Study the given methods and draw diagrams for the ones you must write. Consider
 corner cases as well, such as when the list is empty or has only one item. You may find it helpful to use
-helper methods, such as _getNode, to avoid repeating code.
+helper methods, such as _get_node, to avoid repeating code.
 
 If you prefer Java, a Java version of this starter code is available.
 
